@@ -1,9 +1,15 @@
-# SCT_DS_02# SCT_DS_02
-# Task 02 – EDA & Data Cleaning
+# SCT_DS_02
+## 🧽 Task 02 – Titanic Dataset EDA & Cleaning (in Excel)
 
-Explored the Titanic dataset using Python.
-Performed data cleaning, handled missing values, and encoded categorical columns.
+I performed full EDA and cleaned the Titanic dataset using Excel.
 
-## Files Included
-- cleaned_titanic.csv
-- task02_EDA_cleaning.ipynb
+### ✅ Steps Taken:
+- Removed unnecessary columns: `Cabin`, `Ticket`, `Name`
+- Handled missing values in `Age` (with median) and `Embarked` (with mode)
+- Analyzed distribution of `Pclass`, `Sex`, `Survived` via Excel tables and filters
+- Created a cleaned version ready for modeling
+
+### 📁 File:
+- `Task_2.xlsx` – contains both the raw and cleaned sheets
+
+> Entirely done in Excel — no Python required 🎉
